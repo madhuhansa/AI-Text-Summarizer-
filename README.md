@@ -81,7 +81,7 @@ It uses the `google/flan-t5-small` model to summarize any paragraph into **short
 
 **Yahan**  
 🎓 Software Engineering Student | 💻 Data Science & NLP Enthusiast  
-📧 Reach me on GitHub: [@<madhuhansa>](https://github.com/<madhuhansa>)
+
 
 ---
 
